@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  background: #f8f3e7;
+}
+
+body {
+  @apply min-h-screen bg-mesh font-sans text-ink antialiased;
+}
+
+a {
+  @apply text-pine underline-offset-4 transition hover:text-moss;
+}
+
+::selection {
+  background: rgba(46, 91, 71, 0.18);
+}
+
+.panel {
+  @apply rounded-[1.75rem] border border-ink/10 bg-white/80 shadow-card backdrop-blur;
+}
+
+.eyebrow {
+  @apply text-[0.68rem] font-semibold uppercase tracking-[0.24em] text-moss/80;
+}
+
+.citation-chip {
+  @apply inline-flex items-center rounded-full border border-moss/20 bg-moss/10 px-2 py-1 text-xs font-semibold text-moss transition hover:border-moss/30 hover:bg-moss/20;
+}
+

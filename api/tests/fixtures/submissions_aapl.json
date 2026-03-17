@@ -1,0 +1,19 @@
+{
+  "name": "Apple Inc.",
+  "sic": "3571",
+  "sicDescription": "Electronic Computers",
+  "fiscalYearEnd": "0928",
+  "filings": {
+    "recent": {
+      "form": ["8-K", "10-K", "10-Q"],
+      "accessionNumber": [
+        "0000320193-24-000130",
+        "0000320193-24-000123",
+        "0000320193-24-000099"
+      ],
+      "filingDate": ["2024-12-18", "2024-11-01", "2024-08-02"],
+      "primaryDocument": ["a8-k20241218.htm", "a10-k20240928.htm", "a10-q20240629.htm"]
+    }
+  }
+}
+
