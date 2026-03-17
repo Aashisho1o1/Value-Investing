@@ -1,4 +1,4 @@
-# Cited 10-K Value Memo Prototype
+# Value Investing: 10-K Value Memo
 
 Prototype web app that turns the latest SEC 10-K for a public company into a cited, value-investing style research memo.
 
